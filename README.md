@@ -31,9 +31,11 @@ You can also use <kbd>conda info --envs</kbd>.
 
 ### Train:
 Use this line to train the model
+
         python train.py --cuda_id 0 --exp CCMSRNet.yml
 ### Test:
 Use this line to predict results
+
         python test.py --cuda_id 0 --exp CCMSRNet.yml --ckpt ./weights/checkpoint.pth --input path_to_img_folder --output path_to_save_folder
 
 # Results
