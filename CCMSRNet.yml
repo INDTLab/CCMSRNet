@@ -1,0 +1,10 @@
+name: "UIEB"
+model_name: "dualstream_normtail"
+num_epochs: 300
+batch_size: 12
+lr: 0.0001
+weight_decay: 0.0
+img_size: 256
+cc_weight: 0.8
+model_file: "models.CCMSRNet.UNet"
+lr_decay: "None"
