@@ -47,8 +47,8 @@ Use this line to predict results
 If our work is useful for your research, please cite our work
 
         @ARTICLE{10336777,
-      author={Qi, Hao and Zhou, Huiyu and Dong, Junyu and Dong, Xinghui},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={Deep Color-Corrected Multi-scale Retinex Network for Underwater Image Enhancement}, 
-      year={2023},
-      doi={10.1109/TGRS.2023.3338611}}
+         author={Qi, Hao and Zhou, Huiyu and Dong, Junyu and Dong, Xinghui},
+         journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+         title={Deep Color-Corrected Multi-scale Retinex Network for Underwater Image Enhancement}, 
+         year={2023},
+         doi={10.1109/TGRS.2023.3338611}}
