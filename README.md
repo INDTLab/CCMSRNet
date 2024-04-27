@@ -38,10 +38,18 @@ Use this line to predict results
 
         python test.py --cuda_id 0 --exp CCMSRNet.yml --ckpt ./weights/checkpoint.pth --input path_to_img_folder --output path_to_save_folder
 
+
 # Results
 
 ![](./imgs/C60_half.png)
 ![](./imgs/RUIE_half.png)
+**<font color="red">Please note that there was a minor bug in the script used to compute the UCIQE metric. To calculate the UCIQE value, please use "calculate_metrics.m" instead. The corrected results are shown below.</font>**
+
+![](./imgs/table1.png)
+![](./imgs/table2.png)
+![](./imgs/table3.png)
+![](./imgs/table4.png)
+![](./imgs/table5.png)
 
 # Citation
 If our work is useful for your research, please cite our work
